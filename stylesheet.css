@@ -1,0 +1,135 @@
+.container-top {
+    position: relative;
+    height:500px;
+}
+
+
+
+.first {
+    background-color:#626F47;
+   
+}
+
+.img-fluid {
+    height:100px;
+    border-radius: 50%;
+    margin:5% auto  auto 20%;
+}
+
+.title-text {
+     text-align:center;
+     
+}
+
+.title-text > h1 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 6rem ;
+    color: rgb(185, 180, 180);
+    
+}
+
+.title-text > h2 {
+    font-family:'Segoe UI', Verdana, sans-serif;
+    font-size:3rem;
+    font-weight:normal;
+    color: rgb(226, 221, 221);
+}
+
+.programmer {
+    text-decoration: underline;
+
+}
+
+.group {
+    height:100px;
+    border-radius: 50%;
+    margin:5% auto  auto 70%;
+}
+
+.hel {
+    font-family:'Segoe UI', Verdana, sans-serif;
+    font-size:2rem;
+    color:rgb(172, 168, 168);
+}
+
+.text-success {
+    border: dotted #eaf6f6 6px;
+    border-bottom: none ;
+    border-left: none ;
+    border-right: none ;
+    width: 4%;
+    margin: 100px auto;
+}
+
+.skill {
+    font-family:'Segoe UI', Verdana, sans-serif;
+    font-size:2rem;
+    color:rgb(172, 168, 168);
+
+}
+
+.grid-container {
+
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    grid-template-rows: repeat(1, 1fr);
+    width: 50%;
+    margin: 100px auto 0 auto;
+    text-align: left;
+    row-gap: 2rem;
+}
+
+.capoo-img {
+    height:200px;
+}
+
+.design {
+    font-family: 'Segoe UI', Verdana, sans-serif;
+    font-size: 2rem;
+    font-weight:bold;
+    color:rgb(172, 168, 168);
+}
+
+.para {
+    font-family: 'Segoe UI', Verdana, sans-serif;
+    font-size: 2rem;
+    font-weight:normal;
+}
+
+.pro {
+    height:200px;
+}
+
+.glass {
+    font-family: 'Segoe UI', Verdana, sans-serif;
+    font-size: 2rem;
+    font-weight:bold;
+    color:rgb(172, 168, 168);
+}
+
+.work {
+    font-family: 'Segoe UI', Verdana, sans-serif;
+    font-size: 2rem;
+    font-weight:normal;
+}
+
+.bottom-container {
+    background-color:#626F47;
+    padding:50px 0px 20px;
+    
+   
+}
+
+a {
+    font-family: 'Segoe UI', Verdana, sans-serif;
+    text-decoration: none;
+    color:rgb(172, 168, 168);
+    margin:10px 20px;
+   
+    
+}
+
+.copyright {
+    color:rgb(172, 168, 168);
+    margin-top:20px;
+}
